@@ -1,4 +1,4 @@
-# DIO_Pithon-Dados
+# DIO_Python-Dados
 Repositório criado para entrega de projeto do curso: DIO -> Accenture - Python para Análise e Automação de Dados
 
 OBJETIVO: Criar um passo a passo para aprender a criar um canal dark do zero a monetização no YT.
